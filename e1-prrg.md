@@ -1,9 +1,9 @@
-For other uses of "RWBY", see _RWBY (disambiguation)_
+For other uses of "RWBY", see [[RWBY (disambiguation)][]
 
 “	The future-fantasy world of Remnant is filled with ravenous monsters, treacherous terrain, and more villains than you can shake a sniper-scythe at. Fortunately, Beacon Academy is training Huntsmen and Huntresses to battle the evils of the world, and Ruby, Weiss, Blake, and Yang are ready for their first day of class.	”
-—_Rooster Teeth_
+—[[Rooster Teeth][]
 
-RWBY (pronounced Ruby)[1] is an American anime web series created by Monty Oum and produced by _Rooster Teeth Productions._
+RWBY (pronounced Ruby)[1] is an American anime web series created by Monty Oum and produced by [[Rooster Teeth Productions.][]
 
 
 

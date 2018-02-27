@@ -9,18 +9,18 @@
 |Image = RWBYHighResolutionLogo.jpg
 |Creators = [[Monty Oum]]
 |Writers =
-*[[Kerry Shawcross]]
-*[[Miles Luna]]
-*[[Monty Oum]]
+* [[Kerry Shawcross]]
+* [[Miles Luna]]
+* [[Monty Oum]]
 |Composers = [[Jeff Williams]]
 |Volumes = 5
 |Chapters = 66 ([[Episodes|list of episodes]])
 
 |Original Run =
 |Release Time =
-*Saturdays at 10 AM CST (For [[Rooster Teeth Productions|Rooster Teeth]] FIRST members)
-*Tuesdays at 10 AM CST (For the Rooster teeth site members)
-*Saturdays a week later (For the public)
+* Saturdays at 10 AM CST (For [[Rooster Teeth Productions|Rooster Teeth]] FIRST members)
+* Tuesdays at 10 AM CST (For the Rooster teeth site members)
+* Saturdays a week later (For the public)
 |Running Time = 4–28 minutes per episode
 |Status = Ongoing
 }}
@@ -55,65 +55,65 @@ All of the inhabitants of Remnant are beset by the [[Grimm]], which are describe
 |style="vertical-align:top"|
 ====Protagonists====
 ;[[RWBY (team)|Team RWBY]]
-*[[Ruby Rose]]
-*[[Weiss Schnee]]
-*[[Blake Belladonna]]
-*[[Yang Xiao Long]]
+* [[Ruby Rose]]
+* [[Weiss Schnee]]
+* [[Blake Belladonna]]
+* [[Yang Xiao Long]]
 ;[[JNPR|Team JNPR]]
-*[[Jaune Arc]]
-*[[Nora Valkyrie]]
-*[[Pyrrha Nikos]]
-*[[Lie Ren]]
+* [[Jaune Arc]]
+* [[Nora Valkyrie]]
+* [[Pyrrha Nikos]]
+* [[Lie Ren]]
 
 ====Huntsmen====
 ;[[Beacon Academy#Staff Members|Beacon Academy Staff]]
-*[[Ozpin]]
-*[[Glynda Goodwitch]]
-*[[Peter Port]]
-*[[Bartholomew Oobleck]]
+* [[Ozpin]]
+* [[Glynda Goodwitch]]
+* [[Peter Port]]
+* [[Bartholomew Oobleck]]
 ;[[Atlas#Military|Atlesian Military]]
-*[[James Ironwood]]
-*[[Winter Schnee]]
-*[[Penny Polendina]]
+* [[James Ironwood]]
+* [[Winter Schnee]]
+* [[Penny Polendina]]
 ;[[STRQ|Team STRQ]]
-*[[Summer Rose]]
-*[[Taiyang Xiao Long]]
-*[[Raven Branwen]]
-*[[Qrow Branwen]]
+* [[Summer Rose]]
+* [[Taiyang Xiao Long]]
+* [[Raven Branwen]]
+* [[Qrow Branwen]]
 | style="vertical-align:top" |
 
 ====Antagonists====
 ;[[Salem's Faction]]
-*[[Salem]]
-*[[Arthur Watts]]
-*[[Hazel Rainart]]
-*[[Tyrian Callows]]
+* [[Salem]]
+* [[Arthur Watts]]
+* [[Hazel Rainart]]
+* [[Tyrian Callows]]
 ;[[Cinder's Faction]]
-*[[Cinder Fall]]
-*[[Roman Torchwick]]
-*[[Emerald Sustrai]]
-*[[Mercury Black]]
-*[[Neopolitan]]
+* [[Cinder Fall]]
+* [[Roman Torchwick]]
+* [[Emerald Sustrai]]
+* [[Mercury Black]]
+* [[Neopolitan]]
 ;[[White Fang]]
-*[[Adam Taurus]]
-*[[White Fang Lieutenant]]
+* [[Adam Taurus]]
+* [[White Fang Lieutenant]]
 
 ====Supporting Characters====
 ;[[CRDL|Team CRDL]]
-*[[Cardin Winchester]]
-*[[Russel Thrush]]
-*[[Dove Bronzewing]]
-*[[Sky Lark]]
+* [[Cardin Winchester]]
+* [[Russel Thrush]]
+* [[Dove Bronzewing]]
+* [[Sky Lark]]
 ;[[CFVY|Team CFVY]]
-*[[Coco Adel]]
-*[[Fox Alistair]]
-*[[Velvet Scarlatina]]
-*[[Yatsuhashi Daichi]]
+* [[Coco Adel]]
+* [[Fox Alistair]]
+* [[Velvet Scarlatina]]
+* [[Yatsuhashi Daichi]]
 ;[[SSSN|Team SSSN]]
-*[[Sun Wukong]]
-*[[Scarlet David]]
-*[[Sage Ayana]]
-*[[Neptune Vasilias]]
+* [[Sun Wukong]]
+* [[Scarlet David]]
+* [[Sage Ayana]]
+* [[Neptune Vasilias]]
 |}
 
 ==Trailers==
@@ -124,10 +124,10 @@ Four trailers were released leading up to the premiere of ''RWBY''. Unlike regul
 
 Each trailer is referred to by a certain color and letter and features a character corresponding to those themes, revealing a little about the central characters' backstory. For example, the "Red", or "R", Trailer featured the character [[Ruby Rose]].
 
-*The [["Red" Trailer]] was released on November 7th, 2012, showing Ruby Rose [[Battle Pages/Ruby vs. Beowolves|fighting]] against a large pack of [[Beowolf|Beowolves]], shown after the finale to ''[[w:c:RvB:Red vs. Blue|Red vs. Blue]]'' Season 10.<ref name="rvbs10finale">[[w:c:RvB:Don't Say It#Trivia|'''''Red vs. Blue'' Season 10 Finale''']]</ref>
-*The [["White" Trailer]] was released on February 14th, 2013, showing Weiss Schnee singing in front of a crowd and having a flashback to [[Battle Pages/Weiss vs. Arma Gigas|a fight]] with a [[Geist|giant suit of armor]].
-*The [["Black" Trailer]] was released on March 22nd, 2013, showing Blake Belladonna and her partner, [[Adam Taurus]], raiding a [[Black Cargo Train|cargo train]] and [[Battle Pages/Blake and Adam vs. Atlesian Knight-130s|fighting]] [[Atlesian Knight-130|Atlesian Knight-130's]] [[Battle Pages/Blake and Adam vs. Spider Droid|and]] a [[Spider Droid|large security droid]].
-*The [["Yellow" Trailer]] was released on June 1st, 2013, showing Yang Xiao Long searching for information about [[Raven Branwen|someone]] at a club, then [[Battle Pages/Yang vs. Junior|fighting]] [[Junior Xiong]] [[Battle Pages/Yang vs. Henchmen|and]] his [[henchmen]].
+* The [["Red" Trailer]] was released on November 7th, 2012, showing Ruby Rose [[Battle Pages/Ruby vs. Beowolves|fighting]] against a large pack of [[Beowolf|Beowolves]], shown after the finale to ''[[w:c:RvB:Red vs. Blue|Red vs. Blue]]'' Season 10.<ref name="rvbs10finale">[[w:c:RvB:Don't Say It#Trivia|'''''Red vs. Blue'' Season 10 Finale''']]</ref>
+* The [["White" Trailer]] was released on February 14th, 2013, showing Weiss Schnee singing in front of a crowd and having a flashback to [[Battle Pages/Weiss vs. Arma Gigas|a fight]] with a [[Geist|giant suit of armor]].
+* The [["Black" Trailer]] was released on March 22nd, 2013, showing Blake Belladonna and her partner, [[Adam Taurus]], raiding a [[Black Cargo Train|cargo train]] and [[Battle Pages/Blake and Adam vs. Atlesian Knight-130s|fighting]] [[Atlesian Knight-130|Atlesian Knight-130's]] [[Battle Pages/Blake and Adam vs. Spider Droid|and]] a [[Spider Droid|large security droid]].
+* The [["Yellow" Trailer]] was released on June 1st, 2013, showing Yang Xiao Long searching for information about [[Raven Branwen|someone]] at a club, then [[Battle Pages/Yang vs. Junior|fighting]] [[Junior Xiong]] [[Battle Pages/Yang vs. Henchmen|and]] his [[henchmen]].
 
 These trailers led directly into the first Volume of the show.
 
@@ -378,10 +378,10 @@ The first released videos for ''RWBY'' were the four trailers, which were develo
 
 After some development, Monty decided to begin casting the roles for the leads, with each lead character reflecting certain personality traits of her voice actor:
 
-*[[Lindsay Jones]] was cast as Ruby Rose, with her silliness, but also honesty, being reflected in Ruby.
-*[[Kara Eberle]] was chosen to play Weiss Schnee, as both can be nice, but at the same time "bitchy".
-*[[Arryn Zech]] plays Blake Belladonna because Monty did not know much about Arryn, he had the impression that she was mysterious, just as Blake is in the series.
-*[[Barbara Dunkelman]] voice acts Yang Xiao Long as both do not care what other people think about them.
+* [[Lindsay Jones]] was cast as Ruby Rose, with her silliness, but also honesty, being reflected in Ruby.
+* [[Kara Eberle]] was chosen to play Weiss Schnee, as both can be nice, but at the same time "bitchy".
+* [[Arryn Zech]] plays Blake Belladonna because Monty did not know much about Arryn, he had the impression that she was mysterious, just as Blake is in the series.
+* [[Barbara Dunkelman]] voice acts Yang Xiao Long as both do not care what other people think about them.
 
 Many other Rooster Teeth employees landed voice roles in ''RWBY'', with [[Jack Pattillo]] cast as [[Junior Xiong]] and [[Michael Jones]] taking on the role of Sun Wukong. Series creator Monty played Lie Ren until his death after Volume 2 aired, and writer Miles plays [[Jaune Arc]]. Other crew working on the show also had a chance to play characters, with Volume 1 Art Director [[Taylor McNee]] cast as Penny Polendina and Producer [[Gray G. Haddock]] playing Roman Torchwick.
 
@@ -396,10 +396,10 @@ Volume 3 marked a point where along with Rooster Teeth staffers and collaborator
 ===Volume 2 Production===
 Development on the second Volume of ''RWBY'' was documented by official production diaries, which were released during the hiatus between Volume 1 and 2. The four production diaries covered different sections of the second Volume's development.
 
-*[https://www.youtube.com/watch?v=8kPTh4ZAQ4g Production Diary 1] outlined the pre-production phase of the show, including the writing process and initial table reads.
-*[https://www.youtube.com/watch?v=aIX8ISA-dtg Production Diary 2] focused on artwork, and followed the design process of Velvet from original concept to final character model.
-*[https://www.youtube.com/watch?v=hsHo347cdHQ Production Diary 3] followed the voice acting for ''RWBY'' Volume 2. The diary also included interviews with the voice actors and covered how they get into character. For example, Lindsay takes off her shoes to get into a more childlike mindset, while Barbara basically plays herself, due to her similarity with Yang.
-*[https://www.youtube.com/watch?v=9tCvH6SIwQs Production Diary 4] focused on final rendering, compositing, sound design and post-production.
+* [https://www.youtube.com/watch?v=8kPTh4ZAQ4g Production Diary 1] outlined the pre-production phase of the show, including the writing process and initial table reads.
+* [https://www.youtube.com/watch?v=aIX8ISA-dtg Production Diary 2] focused on artwork, and followed the design process of Velvet from original concept to final character model.
+* [https://www.youtube.com/watch?v=hsHo347cdHQ Production Diary 3] followed the voice acting for ''RWBY'' Volume 2. The diary also included interviews with the voice actors and covered how they get into character. For example, Lindsay takes off her shoes to get into a more childlike mindset, while Barbara basically plays herself, due to her similarity with Yang.
+* [https://www.youtube.com/watch?v=9tCvH6SIwQs Production Diary 4] focused on final rendering, compositing, sound design and post-production.
 
 [[File:Prod diary 1.jpg|thumb|250px|Caiti and Monty poring over submissions for the Velvet Scarlatina battle costume contest]]
 
@@ -466,16 +466,16 @@ Also teased at RTX Austin was a first look at the "[[Volume 5 Weiss Character Sh
 Volume 5 continued to use Autodesk Maya software, but some visual elements were added. Most notably, a third lighting layer is sometimes in use on characters.<ref name="CRWBY: Behind the Episode">'''CRWBY: Behind the Episode'''</ref>
 
 ==Trivia==
-*On April 29th, 2012, Monty posted a cryptic ''RWBY''-related tweet - the first time the show was alluded to online.<ref>'''[https://twitter.com/montyoum/status/479014089465671681 Monty's Twitter]'''</ref>
-*All character and team names follow Monty's color naming rule. This means that each character's and team's name is either a color; means a color; sounds like a color; or makes people think of a color.<ref name="twitter">[https://twitter.com/montyoum/status/406894139746172928 '''Monty's Twitter''']</ref><ref name="rulesimage">[[:File:Rwby naming rules.png|'''''RWBY'' Naming Rules''']]</ref>
-*Promotional material at NYCC 2012 has indicated that Rooster Teeth has been teasing ''RWBY'' since October 10th, 2012.<ref name="NYCC 2012">[https://twitter.com/montyoum/status/388087806905438210/photo/1 '''Monty Oum's Twitter''']</ref>
-*On October 10th, 2013 Monty stated on Twitter that "The first ''RWBY'' anything to ever go public was handed out exactly one year ago at NYCC".<ref name="NYCC 2012" /> Following this statement, the Rooster Teeth Twitter account posted a short message "''RWBY'' Day".<ref>[https://twitter.com/RoosterTeeth/status/388340704214122497 '''Rooster Teeth's Twitter''']</ref> October 10th was thus dubbed "''RWBY'' Day".
+* On April 29th, 2012, Monty posted a cryptic ''RWBY''-related tweet - the first time the show was alluded to online.<ref>'''[https://twitter.com/montyoum/status/479014089465671681 Monty's Twitter]'''</ref>
+* All character and team names follow Monty's color naming rule. This means that each character's and team's name is either a color; means a color; sounds like a color; or makes people think of a color.<ref name="twitter">[https://twitter.com/montyoum/status/406894139746172928 '''Monty's Twitter''']</ref><ref name="rulesimage">[[:File:Rwby naming rules.png|'''''RWBY'' Naming Rules''']]</ref>
+* Promotional material at NYCC 2012 has indicated that Rooster Teeth has been teasing ''RWBY'' since October 10th, 2012.<ref name="NYCC 2012">[https://twitter.com/montyoum/status/388087806905438210/photo/1 '''Monty Oum's Twitter''']</ref>
+* On October 10th, 2013 Monty stated on Twitter that "The first ''RWBY'' anything to ever go public was handed out exactly one year ago at NYCC".<ref name="NYCC 2012" /> Following this statement, the Rooster Teeth Twitter account posted a short message "''RWBY'' Day".<ref>[https://twitter.com/RoosterTeeth/status/388340704214122497 '''Rooster Teeth's Twitter''']</ref> October 10th was thus dubbed "''RWBY'' Day".
 
 ==Links==
-*[http://roosterteeth.com/show/rwby Rooster Teeth ''RWBY'' Page]
-*[http://teamrwby.com/ ''RWBY'' Theatrical Release Site]
-*[http://rwby.jp/news.html ''RWBY'' Japanese Official Site]
-*[https://www.facebook.com/RT.RWBY/?fref=ts ''RWBY'' Official Facebook Page]
+* [http://roosterteeth.com/show/rwby Rooster Teeth ''RWBY'' Page]
+* [http://teamrwby.com/ ''RWBY'' Theatrical Release Site]
+* [http://rwby.jp/news.html ''RWBY'' Japanese Official Site]
+* [https://www.facebook.com/RT.RWBY/?fref=ts ''RWBY'' Official Facebook Page]
 
 ==References==
 {{reflist|2}}

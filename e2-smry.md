@@ -16,7 +16,8 @@ In the world of Remnant, all living creatures possess a soul, the physical manif
 All of the inhabitants of Remnant are beset by the Grimm, which are described as "creatures of destruction" and lack a soul. Huntsmen and Huntresses fight the Grimm and protect the peace of Remnant and its people.
 
 ## Characters
-Main articles: Characters, Minor Characters
+>Main articles: Characters, Minor Characters
+
 ### Protagonists
 Team RWBY
 - Ruby Rose

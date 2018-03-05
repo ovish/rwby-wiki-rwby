@@ -1,5 +1,6 @@
 # Trailers
-Main article: Trailers
+>Main article: Trailers
+
 Four trailers were released leading up to the premiere of RWBY. Unlike regular previews, the trailers for RWBY were not cut using animation from the series, instead being original self-contained animated short films that told their own unique stories. In this sense, they acted more like prequels for the series proper than actual trailers.
 
 Each trailer is referred to by a certain color and letter and features a character corresponding to those themes, revealing a little about the central characters' backstory. For example, the "Red", or "R", Trailer featured the character Ruby Rose.

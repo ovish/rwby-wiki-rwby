@@ -1,5 +1,6 @@
 # Episodes
-Main article: Episodes
+>Main article: Episodes
+
 Episodes of the series are watchable in their entirety on Rooster Teeth's website and YouTube. The series is also simulcast concurrent with the public release of the show on anime streaming website Crunchyroll. Previous seasons were available on the internet streaming service Netflix.[3]
 
 In 2016, theatrical screenings of RWBY Volume 1 in Australia, the United Kingdom and United States were announced, with the help of screening and events coordinator Tugg. The theatrical screenings took place from April 27th, 2016.[4] Screenings for Volumes 2 and 3 were also announced for 2016 in the lead-up to Volume 4.[5] Screenings for Volume 2 took place on July 27th.[6]
@@ -26,7 +27,7 @@ The DVD/Blu-Ray release of RWBY Volume 3 were released on May 3rd, 2016.[8]
 ## Volume 4
 Volume 4 premiered on October 22nd, 2016.[9] It followed a similar release schedule to Volume 3, being released on Saturday for Rooster Teeth FIRST members followed by the release for registered users of the Rooster Teeth site on Sunday, 24 hours later. It was then released to the public and uploaded to YouTube the week following the FIRST members' release.
 
-The Volume 4 premiere was preceded by the "Volume 4 Character Short" on October 3rd, 2016.[10] The character short features an original story and animation and does not cut from upcoming scenes, making it the first non-ediitorial trailer since the four character trailers for Volume 1.
+The Volume 4 premiere was preceded by the "Volume 4 Character Short" on October 3rd, 2016.[10] The character short features an original story and animation and does not cut from upcoming scenes, making it the first non-editorial trailer since the four character trailers for Volume 1.
 
 On the week of October 17th, Rooster Teeth began airing RWBY: World of Remnant episodes, narrated by Qrow Branwen, that go into detail about each of the kingdoms.
 

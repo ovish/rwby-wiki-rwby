@@ -1,5 +1,5 @@
-# DevelopmentEdit
-## Original ConceptEdit
+# Development
+## Original Concept
 At some point Monty Oum had a dream of four different colored girls and told Kerry about it.[55]
 
 Monty Oum had the idea for RWBY for several years, but never got around to acting on it due to the amount of his time dedicated to his work on Red vs. Blue. During the production of Season 10 of Red vs. Blue, Monty decided to develop his idea further and present it to Burnie Burns. After describing the premise of the show as well as giving a description of the character that would become Ruby Rose, Monty received approval for the show.
@@ -12,7 +12,7 @@ The theme of four colors, Red, White, Black and Yellow, each corresponding to fo
 
 Many characters were designed by Eileen Chang, who followed rough sketches provided by Monty and further developed them into fully-fleshed out character designs.
 
-## Team ExpansionEdit
+## Team Expansion
 After receiving approval from Burnie, Monty then enlisted the services of Shane Newville to assist him in animating the show. The show was animated in the software Smith Micro's Poser, which Monty had years of experience and expertise in. The assets were modelled in Autodesk Maya. Motion capture footage was also widely used for animations in the show alongside manual animation.
 
 Kerry Shawcross and Miles Luna were brought on by Monty to be the main writers. Monty assigned the two writers anime homework so that they could have a better idea of what Monty was aiming for.[1] The pair developed characters based on the basic outlines given by Monty, for example, the personalities of Nora Valkyrie and Lie Ren were devised based only on the direction that they were "powerful" and "honorable", respectively. On finding the correct tone and inspiration for the series, Kerry Shawcross cited Grimms' Fairy Tales as well as The Fresh Prince of Bel-Air as influences.[59]
@@ -21,7 +21,7 @@ The four team members spent many working and off hours, in and out of the office
 
 The first released videos for RWBY were the four trailers, which were developed mostly by Monty and Shane alone. A larger team of animators, modellers and other artists later joined the RWBY team for the production of Volume 1.
 
-## CastingEdit
+## Casting
 After some development, Monty decided to begin casting the roles for the leads, with each lead character reflecting certain personality traits of her voice actor:
 
 - Lindsay Jones was cast as Ruby Rose, with her silliness, but also honesty, being reflected in Ruby.
@@ -37,7 +37,7 @@ The first episode of RWBY Volume 1 premiered at RTX 2013 at the first RWBY Panel
 
 RWBY Volume 1 received several accolades, including the International Academy of Web Television (IAWTV) 2014 Award for Best Animated Series[60] and the 4th Streamy Awards for Best Animated Series and Best Original Score for Jeff Williams.[61]
 
-## Volume 2 ProductionEdit
+## Volume 2 Production
 Development on the second Volume of RWBY was documented by official production diaries, which were released during the hiatus between Volume 1 and 2. The four production diaries covered different sections of the second Volume's development.
 
 - Production Diary 1 outlined the pre-production phase of the show, including the writing process and initial table reads.
@@ -56,8 +56,8 @@ Notable additions to the voice cast for Volume 2 included J.J. Castillo as Mercu
 
 Volume 2 again premiered at RTX 2014, which took place from July 4th–6th, 2014.
 
-## Japanese ReleaseEdit
-The Volume 1 Limited Edition theatrical release Japanese DVD/Blu-ray cover. Illustrated by Kuma.
+## Japanese Release
+The Volume 1 Limited edition theatrical release Japanese DVD/Blu-ray cover. Illustrated by Kuma.
 In 2014, it was announced that Warner Bros. Japan had received distribution rights for a Japanese release of RWBY[62][63] – the first time an American-made anime would be marketed and released in Japan, the birthplace of anime.
 
 The Japanese dub, released in 2015 on Blu-Ray and DVD, included several highly notable names in the Japanese anime voice acting scene, such as Saori Hayami, Yū Shimamura and Ami Koshimizu.[64] The Japanese dub of RWBY Volume 1 was also screened in 6 theaters in Japan on November 14th, 2015.[65] The Blu-Ray disc release was ranked #2 in any category in Japan for the week of December 7th-13th.[66] Some of the Japanese merchandise, including the dubbed DVD and Blu-Ray discs and the Japanese soundtrack release, was also made available through the Rooster Teeth store in the United States following the conclusion of Volume 3.[67]
@@ -70,7 +70,7 @@ It was announced on June 13th, 2017 on Comic Toranoana's Twitter account, that R
 
 It was announced on July 3rd, 2017 on Warner Bros' YouTube channel that the Japanese dub of RWBY Volume 4 was released on October 7th-20th, 2017.[73]
 
-## Volume 3 ProductionEdit
+## Volume 3 Production
 On January 22nd, 2015, series creator Monty Oum was hospitalized following a severe allergic reaction during a routine medical procedure, rendering him comatose. Monty was unable to awaken from the coma and passed away on February 1st, 2015, at the age of 33.
 
 While the future of the series was briefly in question, it was announced that RWBY would continue, with Volume 3 of the series to premiere in 2015.[74]
@@ -87,7 +87,7 @@ The third volume of RWBY, especially the sixth episode, entitled "Fall", has bee
 
 In January 2016, midway through the original run of Volume 3, lead animator and long-time member of the RWBY crew, Shane Newville, left Rooster Teeth.[78]
 
-## Volume 4 & RWBY ChibiEdit
+## Volume 4 & RWBY Chibi
 Volume 4 was announced by Gray G. Haddock on April 1st, 2016, the 13th anniversary of Rooster Teeth's founding. At RTX 2016, the release date was announced as October 22nd, 2016.[9] The shot list and initial storyboarding for the first episode of Volume 4 were underway by May 2016.[79] Voice acting recording sessions for key characters also began by May to June 2016.[80][81][82]
 
 Also announced as part of the 13th anniversary celebrations was a lighthearted spin-off show, RWBY Chibi, which began airing on May 7th, 2016.[17] As part of Rooster Teeth's 2016 "Summer of Animation", RWBY Chibi continued to air weekly on Saturday mornings until the start of Volume 4 in the Fall.[83] Completely different animation teams worked on RWBY Volume 4 and RWBY Chibi.[84][85]
@@ -96,7 +96,7 @@ RWBY Volume 4 and RWBY Chibi were animated in Autodesk Maya, unlike previous vol
 
 In addition to the improvements in animation, the visual style of the show was also overhauled, with all character models remade and many of the Grimm redesigned by Erin Winn and remodeled. Concept artist Eileen Chang, who worked on the original concepts for the 4 main characters, was also brought back to create their new timeskip outfits and designs.[86]
 
-## Volume 5Edit
+## Volume 5
 The Volume 5 online premiere date, October 14th, 2017 was announced at RTX Austin 2017. In addition, theatrical screenings of the premiere were held through Fathom Events across the United States on October 12th.
 
 Also teased at RTX Austin was a first look at the "Volume 5 Weiss Character Short", which premiered on July 17th, 2017. Character shorts for Blake and Yang premiered on September 4th and October 14th, respectively. Each short gives a flashback while also connecting it to the main timeline.

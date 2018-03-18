@@ -29,10 +29,10 @@ upd update :よりよく修正
 リンクは'[^n]'の形にする
 
 ### 保留案件、訳せないもの
-unique
-release, publish, premire公開系どう訳す
-original
-original run?
+unique  
+release, publish, premire公開系どう訳す  
+original  
+original run?  
 
 ### 正規表現
 #### ==見出し==

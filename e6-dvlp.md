@@ -44,8 +44,7 @@ Development on the second Volume of RWBY was documented by official production d
 - Production Diary 2 focused on artwork, and followed the design process of Velvet from original concept to final character model.
 - Production Diary 3 followed the voice acting for RWBY Volume 2. The diary also included interviews with the voice actors and covered how they get into character. For example, Lindsay takes off her shoes to get into a more childlike mindset, while Barbara basically plays herself, due to her similarity with Yang.
 - Production Diary 4 focused on final rendering, compositing, sound design and post-production.
-Prod diary 1
-Caiti and Monty poring over submissions for the Velvet Scarlatina battle costume contest
+
 A contest was opened for the design of the character Velvet Scarlatina's outfit, in order to recognize the community's contributions and include them to the show. More than 1,300 designs were submitted to the contest, with the winning one selected by Velvet's voice actress Caiti Ward and Monty Oum. A fan art contest was also opened, where some of the submitted fan art was featured in the ending credits of episodes of Volume 2.
 
 During development of the second Volume, the show adopted more subtle, balanced lighting in contrast to the brighter and flatter lighting of the first Volume, and the character models underwent an overhaul. The black silhouette background characters that were present in the first Volume were replaced with fully-rendered procedurally generated models in the second, in order to add more vibrance to the world. Kristina Nguyen, who worked on environmental designs during Volume 1, was the Art Director for Volume 2, and worked closely with the modellers on the environment models and textures.
@@ -57,7 +56,6 @@ Notable additions to the voice cast for Volume 2 included J.J. Castillo as Mercu
 Volume 2 again premiered at RTX 2014, which took place from July 4th–6th, 2014.
 
 ## Japanese Release
-The Volume 1 Limited edition theatrical release Japanese DVD/Blu-ray cover. Illustrated by Kuma.
 In 2014, it was announced that Warner Bros. Japan had received distribution rights for a Japanese release of RWBY[62][63] – the first time an American-made anime would be marketed and released in Japan, the birthplace of anime.
 
 The Japanese dub, released in 2015 on Blu-Ray and DVD, included several highly notable names in the Japanese anime voice acting scene, such as Saori Hayami, Yū Shimamura and Ami Koshimizu.[64] The Japanese dub of RWBY Volume 1 was also screened in 6 theaters in Japan on November 14th, 2015.[65] The Blu-Ray disc release was ranked #2 in any category in Japan for the week of December 7th-13th.[66] Some of the Japanese merchandise, including the dubbed DVD and Blu-Ray discs and the Japanese soundtrack release, was also made available through the Rooster Teeth store in the United States following the conclusion of Volume 3.[67]

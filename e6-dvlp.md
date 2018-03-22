@@ -8,14 +8,14 @@ Some of the animations and concepts Monty used in the series were in development
 
 Monty pitched the idea for Ruby's character to Burnie as "a badass Red Riding Hood". Fairy tales, literature, mythology and historical figures would later become a source of inspiration for other characters, who are developed with a certain existing basis in mind. However, Monty was careful to note that they are not adaptations, but rather original characters which allude to other works.[57]
 
-The theme of four colors, Red, White, Black and Yellow, each corresponding to four girls, came to Monty in a dream. This color theming would become a core part of the character development process and a key theme in the series itself.[1]
+The theme of four colors, Red, White, Black and Yellow, each corresponding to four girls, came to Monty in a dream. This color theming would become a core part of the character development process and a key theme in the series itself.<ref name="rtp191" class="jrk1" />
 
 Many characters were designed by Eileen Chang, who followed rough sketches provided by Monty and further developed them into fully-fleshed out character designs.
 
 ## Team Expansion
 After receiving approval from Burnie, Monty then enlisted the services of Shane Newville to assist him in animating the show. The show was animated in the software Smith Micro's Poser, which Monty had years of experience and expertise in. The assets were modelled in Autodesk Maya. Motion capture footage was also widely used for animations in the show alongside manual animation.
 
-Kerry Shawcross and Miles Luna were brought on by Monty to be the main writers. Monty assigned the two writers anime homework so that they could have a better idea of what Monty was aiming for.[1] The pair developed characters based on the basic outlines given by Monty, for example, the personalities of Nora Valkyrie and Lie Ren were devised based only on the direction that they were "powerful" and "honorable", respectively. On finding the correct tone and inspiration for the series, Kerry Shawcross cited Grimms' Fairy Tales as well as The Fresh Prince of Bel-Air as influences.[59]
+Kerry Shawcross and Miles Luna were brought on by Monty to be the main writers. Monty assigned the two writers anime homework so that they could have a better idea of what Monty was aiming for.<ref name="rtp191" class="jrk1" /> The pair developed characters based on the basic outlines given by Monty, for example, the personalities of Nora Valkyrie and Lie Ren were devised based only on the direction that they were "powerful" and "honorable", respectively. On finding the correct tone and inspiration for the series, Kerry Shawcross cited Grimms' Fairy Tales as well as The Fresh Prince of Bel-Air as influences.[59]
 
 The four team members spent many working and off hours, in and out of the office, developing the show. One of the most frequented locations was the local IHOP, where the map of Remnant, the show's setting, was developed by squirting ketchup on a napkin, with blots forming landmasses, in order to create a truly organic and emergent design. Over many such discussions, the long-term plot, world-building and characters of the series were planned out.
 
@@ -86,9 +86,9 @@ The third volume of RWBY, especially the sixth episode, entitled "Fall", has bee
 In January 2016, midway through the original run of Volume 3, lead animator and long-time member of the RWBY crew, Shane Newville, left Rooster Teeth.[78]
 
 ## Volume 4 & RWBY Chibi
-Volume 4 was announced by Gray G. Haddock on April 1st, 2016, the 13th anniversary of Rooster Teeth's founding. At RTX 2016, the release date was announced as October 22nd, 2016.[9] The shot list and initial storyboarding for the first episode of Volume 4 were underway by May 2016.[79] Voice acting recording sessions for key characters also began by May to June 2016.[80][81][82]
+Volume 4 was announced by Gray G. Haddock on April 1st, 2016, the 13th anniversary of Rooster Teeth's founding. At RTX 2016, the release date was announced as October 22nd, 2016.<ref name="v4releasedate" class="jrk9" /> The shot list and initial storyboarding for the first episode of Volume 4 were underway by May 2016.[79] Voice acting recording sessions for key characters also began by May to June 2016.[80][81][82]
 
-Also announced as part of the 13th anniversary celebrations was a lighthearted spin-off show, RWBY Chibi, which began airing on May 7th, 2016.[17] As part of Rooster Teeth's 2016 "Summer of Animation", RWBY Chibi continued to air weekly on Saturday mornings until the start of Volume 4 in the Fall.[83] Completely different animation teams worked on RWBY Volume 4 and RWBY Chibi.[84][85]
+Also announced as part of the 13th anniversary celebrations was a lighthearted spin-off show, RWBY Chibi, which began airing on May 7th, 2016.<ref name="rwbychibi_date" class="jrk17" /> As part of Rooster Teeth's 2016 "Summer of Animation", RWBY Chibi continued to air weekly on Saturday mornings until the start of Volume 4 in the Fall.[83] Completely different animation teams worked on RWBY Volume 4 and RWBY Chibi.[84][85]
 
 RWBY Volume 4 and RWBY Chibi were animated in Autodesk Maya, unlike previous volumes of RWBY, which were animated in Smith Micro's Poser. Kerry Shawcross cites scalability as one of the advantages of the switch, expanding the number of people capable of working on the team. The new software also made real-time lighting, shadows and other effects feasible.[86]
 

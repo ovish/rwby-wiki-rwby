@@ -39,5 +39,5 @@ listCombi = str(
     )
 
 print(listCombi)
-with open('combi.md', 'w') as f:
+with open('jpnCombi.md', 'w') as f:
     f.write(listCombi)

@@ -7,7 +7,7 @@ import os
 import codecs
 from itertools import zip_longest
 
-with open('combi.md', 'r') as f:
+with open('jpnCombi.md', 'r') as f:
     strJpn = f.read()
 with open('source.md', 'r') as f:
     strLink = f.read()

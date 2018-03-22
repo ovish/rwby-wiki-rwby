@@ -38,6 +38,5 @@ listCombi = str(
     + listj7
     )
 
-print(listCombi)
 with open('jpnCombi.md', 'w') as f:
     f.write(listCombi)

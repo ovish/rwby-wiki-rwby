@@ -1,6 +1,6 @@
 # メディア
 ## サウンドトラック
->詳しくは次の記事を参照:RWBY: Volume 1 Soundtrack, RWBY: Volume 2 Soundtrack, RWBY: Volume 3 Soundtrack, RWBY: Volume 4 Soundtrack
+:詳しくは次の記事を参照:RWBY: Volume 1 Soundtrack, RWBY: Volume 2 Soundtrack, RWBY: Volume 3 Soundtrack, RWBY: Volume 4 Soundtrack
 
 RWBYはJeff Williamsにより作曲されたオリジナルサウンドトラックで構成され、様々な場面に曲がる物語りに合わせて書かれた曲である。曲はJeff Williamsによって作曲と録音がなされ、ボーカルは彼の娘を中心として、Sandy Lee Caseyとrapper Lamar Hallなどが担当した。
 
@@ -9,7 +9,7 @@ RWBYはJeff Williamsにより作曲されたオリジナルサウンドトラッ
 オリジナルサウンドトラックのアルバムはVolumes 1、2、3、4のものが販売された。最初のサウンドトラックに含まれる曲は、Volume 1と共に発売された。
 
 ## World of Remnant
->詳細は次の記事をみな：World of Remnant
+:詳細は次の記事をみな：World of Remnant
 
 World of Remnantは補助的な小話であり、RWBYの舞台である、レムナントにおける様々な、地域、文化、建築などを描く。
 
@@ -18,7 +18,7 @@ World of Remnantは補助的な小話であり、RWBYの舞台である、レム
 World of Remnantのエピソードは本編に連動して不定期に放送される。World of Remnantは本編が放映されない週に代わりに放送されることがある。Volume 2では不定期に挿入されたが、Volume 3では本編の3エピソードの後に定期的に公開された。
 
 ## RWBY Chibi
->詳細は次の記事：RWBY Chibi
+:詳細は次の記事：RWBY Chibi
 
 RWBY ChibiはRWBYのスピンオフコメディである。番組はRWBYのSDキャラクターで描かれ、本編の筋と脚本よりも陽気なコメディとなっている。
 
@@ -27,7 +27,7 @@ RWBY ChibiはRWBYのスピンオフコメディである。番組はRWBYのSDキ
 2018年1月16日RWBY Chibiのサードシーズンの放が2018年2月27日から始まることが確認された。[^19]
 
 ## Grimm Eclipse
->詳細は次の記事に：Grimm Eclipse
+:詳細は次の記事に：Grimm Eclipse
 
 Grimm EclipseはRooster Teethが製作した公式のビデオゲームであり、個人開発者Jordan Scottによって初期の製作が行われていた。
 
@@ -38,28 +38,28 @@ Grimm EclipseはRooster Teethによって製作された公式ビデオゲーム
 Windows版のゲームが2016年7月13日に発売され、[^21]　その後、Mac版が2016年10月13日に発売された。[^22]　PlayStation 4とXbox Oneの版は2017年1月17日に同時に発売された。[^23]
 
 ## Combat Ready
->詳細は次の記事に：Combat Ready
+:詳細は次の記事に：Combat Ready
 
 Combat Readyは近日発売予定の、Rooster TeethとゲームデザイナーArcane Wondersによるボードゲームである。[^24]　これは2017年9月15日に告知された。[^25]　キックスターターが2017年9月27日から始まり10月30日まで行われる予定である。[^26]
 
 ## Mobile Game
->詳細は次の記事に：Mobile Game
+:詳細は次の記事に：Mobile Game
 
 公認されたモバイルゲームであり、Volume 3の時期のオリジナルストーリーを用いる。iOS、 Android、PCで販売されるが、現時点での時期は未定である。
 
 ## マンガ
->詳細は次の記事に：マンガ
+:詳細は次の記事に：マンガ
 
 RWBYのマンガであり、Volume 1を描き、何巻かに分けて刊行されていたが、2017年2月18日現在で完結している。マンガ家のShirow Miwaによって書かれたオリジナルストーリーである。[^27]　Rooster Teethの監修のもと集英社のウルトラジャンプより刊行された。
 
 第1章はウルトラジャンプの9月号にて掲載され、これは2015年11月19日のことであった。巻頭カラーと裏表紙があり、マンガの場面より引用した追加の絵があった。[^28]　続く章は、毎月19日に発売されるウルトラジャンプにて連載された。[^29] [^30]
 
->詳細は次の記事に：公式アンソロジー
+:詳細は次の記事に：公式アンソロジー
 
 2016年12月23日、ホーム社はVol. 1: Red Like Rosesの出版を発表した。これは書籍の初めての公式マンガアンソロジーであり、2017年春を予定されていた。[^31]　2017年3月25日に発売の日程が5月19日になることが発表された。[^32] 二巻目であるVol. 2: "Mirror Mirror"は、2017年6月19日に発売された。[^33] 三巻目であるVol. 3: From Shadowsは、2017年9月19日に発売された。[^34]　四巻目であるVol. 4: I Burnは、2017年10月19日に発売された。[^35]
 
 ## ライトノベル
->詳しくは次の記事で：RWBY the Session
+:詳しくは次の記事で：RWBY the Session
 
 2017年5月17日にガガガ文庫のツイッターアカウントがRWBY the Sessionと題されたライトノベルを2017年7月19日に発売すると発表した。[^36]　担当する作家の名前はSuzuhito Yasudaであった。[^37]　RWBY the SessionはオリジナルのVolumes 1と2の間に含まれ、本編に関わりのないサイドストーリーである。[^38]
 
@@ -76,7 +76,7 @@ RWBY Rewindとは、Rooster Teethの社員が最新のRWBYエピソードにつ�
 Behind the Episodeは、視聴者にアニメーター、エンジニア、プロデューサー、アーティストなどのレムナントに命を吹き込む人たちを紹介するものである。Volume 5を使ってそれぞれの仕事を紹介する。
 
 ## グッズ
->詳しくは次の記事に：グッズ
+:詳しくは次の記事に：グッズ
 
 グッズはRooster Teethのオンラインストアで販売されている。シャツ、ポスター、フィギュアを始めとして様々なものがある。RWBYグッズは、他の衣料小売店でも時々販売されている。[^42]
 
@@ -106,7 +106,7 @@ RWBYのキャラクターは、Rooster Teeth Animated Adventuresのいくつか�
 Rooster Teethのゲームである"Battle Sloths"においてチームRWBYがキャラクターとして登場した。[^46]
 
 ### BlazBlue: Cross Tag Battle
->詳しくは次の記事に：BlazBlue: Cross Tag Battle
+:詳しくは次の記事に：BlazBlue: Cross Tag Battle
 
 チャンピオンシップシリーズの発展の中で、アークシステムワークスによるクロスオーバー格闘ゲームへ、BlazBlue、ペルソナ4、Under Night In Birthと共に、ルビーローズが参戦することが予告された。リリースは2018年を予定されている。[^47]　2017年10月3日にGray Haddockがルビーのデモプレイをツイートした。2017年10月6日にアークシステムワークスは、プレイ可能な7人のキャラクターを用いた早期ゲームプレイのトレイラーを公開した。[^48]
 

@@ -12,7 +12,11 @@ with open('jpnCombi.md', 'r') as f:
 with open('source.md', 'r') as f:
     strLink = f.read()
 
-listJpn = re.split('\[\^\d+\]', strJpn)
+# 人力リンクで作業してある<ref link />をのける
+listTidy = re.split('<ref.+?\/>', strJpn)
+tidyJpn = ''.join(listTidy)
+
+listJpn = re.split('\[\^\d+\]', tidyJpn)
 listLink = re.findall('<ref.*?>.+?<\/ref>', strLink)
 
 listSource = [

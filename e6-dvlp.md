@@ -92,7 +92,7 @@ Also announced as part of the 13th anniversary celebrations was a lighthearted s
 
 RWBY Volume 4 and RWBY Chibi were animated in Autodesk Maya, unlike previous volumes of RWBY, which were animated in Smith Micro's Poser. Kerry Shawcross cites scalability as one of the advantages of the switch, expanding the number of people capable of working on the team. The new software also made real-time lighting, shadows and other effects feasible.[86]
 
-In addition to the improvements in animation, the visual style of the show was also overhauled, with all character models remade and many of the Grimm redesigned by Erin Winn and remodeled. Concept artist Eileen Chang, who worked on the original concepts for the 4 main characters, was also brought back to create their new timeskip outfits and designs.[86]
+In addition to the improvements in animation, the visual style of the show was also overhauled, with all character models remade and many of the Grimm redesigned by Erin Winn and remodeled. Concept artist Eileen Chang, who worked on the original concepts for the 4 main characters, was also brought back to create their new timeskip outfits and designs.<ref name="rtx2016sat" />
 
 ## Volume 5
 The Volume 5 online premiere date, October 14th, 2017 was announced at RTX Austin 2017. In addition, theatrical screenings of the premiere were held through Fathom Events across the United States on October 12th.

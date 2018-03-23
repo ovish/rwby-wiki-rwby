@@ -6,11 +6,15 @@
 そのあとVolume5が3000文字ぐらい追加されていたけど、無視する。  
 
 ### ファイル
-- e(num)-word.md : 英語プレーンテキスト  
-- j(num)-word.md : e(num)の翻訳  
-- a(num)-word.md : ソースファイル、結局使ってない
-- source.md : ページ丸々のソース、あとで使う
-- その他　: 名前の通りの機能
+- 翻訳するやつら
+    - e(num)-word.md : 英語プレーンテキスト  
+    - j(num)-word.md : e(num)の翻訳  
+    - a(num)-word.md : ソースファイル、結局使ってない
+    - source.md : ページ丸々のソース、あとで使う
+- スクリプト、この順にやればjpnSource.mdができる。そのうち人コマンドでできるようにまとめるつもり。
+    - combi.py : j(num)-word.mdをがっちゃんこする
+    - title.py : jpnCombiのタイトルを[#title]->[=title=]
+    - link.py : jpnCombiに引用リンクを書き換え
 
 ### 方針
 翻訳と技術作業は分ける    
@@ -95,3 +99,14 @@ upd update :よりよく修正
 [翻訳ガイドライン](https://ja.wikipedia.org/wiki/Wikipedia:翻訳のガイドライン)  
 [言葉を濁さない](https://ja.wikipedia.org/wiki/Wikipedia:言葉を濁さない)  
 [ストーリー文体](https://ja.wikipedia.org/wiki/Wikipedia:ウィキペディアにふさわしいストーリー紹介の文体)  
+
+## ライセンス
+- 翻訳はrwby wiki jpn aND eng の CC-BY-SA
+- スクリプトはMIT
+
+## 感想
+- brewがpythonでのインストールを2から3にしたらしいので、うにコード民として嬉しい。遅いとか問題じゃない、だって早いのは別の言葉で書けばいいんだもん。これでこれからはわざわざ3指定して実行しなくて良くなるかな？
+- RWBYの作業してるとやっぱruby使うべきかと書くたびに思う。良いサイトとか面白い本ないですかね？
+- コーヒー自棄飲みしたらめちゃめちゃ気持ち悪い。
+- electronよかった。一瞬でデスクトップアプリ作れた。でも,c,c++,go,nim,,rust,clisp,haskell,らへんの速そうなのはかけるようになりたいと思う。どれにしようかな。手続きガリガリ型一個と関数型一個かな？javaはなんとなく嫌だ。pythonは早い書き方調べて考えんのめんどい、
+- emacsのlisp初めていじったらエラー吐かれたのでそのうちinit.elをいじり直さなきゃならない。ふぅわー

@@ -88,6 +88,14 @@ upd update :よりよく修正
 - [:]で段落下げ => [>]->[:] ==done
 - タイトル　[#title] -> [=title=]
 - 箇条書きのタイトル [####] -> [;]　このテンプレ使える? ==一応done
+こいつを最後に追記
+'''
+==Links==
+* [http://roosterteeth.com/show/rwby Rooster Teeth ''RWBY'' Page]
+* [http://teamrwby.com/ ''RWBY'' Theatrical Release Site]
+* [http://rwby.jp/news.html ''RWBY'' Japanese Official Site]
+* [https://www.facebook.com/RT.RWBY/?fref=ts ''RWBY'' Official Facebook Page]
+'''
 
 #### 単語の表記
 - unique  
@@ -97,6 +105,9 @@ upd update :よりよく修正
 
 #### wikiaローカルルール
 - 人名は英語
+
+==References==
+{{reflist|2}}
 
 ### 参考にするソース
 あくまでファンコミュニティのwikiであるということを念頭に置いて、wikipeとは違い創作物により入れ込んでいい利点を意識しながら翻訳する。  というかwikipe、ENGwikiaから文章を一部取ってきてるんじゃ...まあライセンス的には全く問題ないはず

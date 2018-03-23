@@ -19,11 +19,15 @@ tidyLink = ''.join(listTidy)
 listLink = re.findall('<ref.*?>.+?<\/ref>', tidyLink)
 listJpn = re.split('\[\^\d+\]', strJpn)
 
-listSource = [
+listSourceWithC = [
     str(lineJpn) + str(lineLink)
     for (lineJpn, lineLink)
     in zip_longest(listJpn, listLink)
     ]
+strSourceWithC = ''.join(listSourceWithC)
+
+#コメント消去
+listSource = re.split('<\!--.+-->', strSourceWithC)
 
 with open('jpnSource.txt', 'w') as f:
         f.write(''.join(listSource))

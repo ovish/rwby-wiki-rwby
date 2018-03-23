@@ -355,13 +355,13 @@ Monty pitched the idea for Ruby's character to Burnie as "a badass Red Riding Ho
 The theme of four colors, Red, White, Black and Yellow, each corresponding to four girls, came to Monty in a dream. This [[Color Naming Rule|color theming]] would become a core part of the character development process and a key theme in the series itself.<ref name="rtp191" />
 
 Many characters were designed by [[Einlee|Eileen Chang]], who followed rough sketches provided by Monty and further developed them into fully-fleshed out character designs.
-
+<!--
 <gallery>
 Original Pyrrah Doodle.jpg|Original [[Pyrrha Nikos]] designs by Monty Oum<ref>'''[http://twitter.com/montyoum/status/462538934275170304 Monty Oum's Twitter]'''</ref>
 Pyrrha concept fall.png|Character design concept art by Eileen Chang
 Pyrrha turnaround quarter.png|The final model used in the show
 </gallery>
-
+-->
 ===Team Expansion===
 [[File:Monty Miles n Kerry.jpg|thumb|250px|Series writers Monty Oum, Miles Luna and Kerry Shawcross]]
 

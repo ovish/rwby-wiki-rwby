@@ -29,5 +29,5 @@ strSourceWithC = ''.join(listSourceWithC)
 #コメント消去
 listSource = re.split('<\!--.+-->', strSourceWithC)
 
-with open('jpnSource.txt', 'w') as f:
+with open('jpnSource.md', 'w') as f:
         f.write(''.join(listSource))

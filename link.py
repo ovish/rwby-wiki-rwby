@@ -28,7 +28,11 @@ listSource = [
     for (lineJpn, lineLink)
     in zip_longest(listJpn, listLink)
     ]
-strSource = ''.join(listSource)
+strSourceWithC = ''.join(listSource)
+
+#コメント消去
+listWithC = re.split('<\!--.+-->', strSourceWithC)
+strSource = ''.join(listWithC)
 
 with open('jpnSource.md', 'w') as f:
         f.write(strSource)

@@ -13,11 +13,11 @@ with open('source.md', 'r') as f:
     strLink = f.read()
 
 # 人力リンクで作業してある<ref link />をのける
-listTidy = re.split('<ref.+?\/>', strJpn)
-tidyJpn = ''.join(listTidy)
+listTidy = re.split('<ref.+?\/>', strLink)
+tidyLink = ''.join(listTidy)
 
-listJpn = re.split('\[\^\d+\]', tidyJpn)
-listLink = re.findall('<ref.*?>.+?<\/ref>', strLink)
+listLink = re.findall('<ref.*?>.+?<\/ref>', tidyLink)
+listJpn = re.split('\[\^\d+\]', strJpn)
 
 listSource = [
     str(lineJpn) + str(lineLink)

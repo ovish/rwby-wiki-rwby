@@ -95,6 +95,9 @@ upd update :よりよく修正
 * [http://teamrwby.com/ ''RWBY'' Theatrical Release Site]
 * [http://rwby.jp/news.html ''RWBY'' Japanese Official Site]
 * [https://www.facebook.com/RT.RWBY/?fref=ts ''RWBY'' Official Facebook Page]
+
+==References==
+{{reflist|2}}
 '''
 
 #### 単語の表記
@@ -105,9 +108,6 @@ upd update :よりよく修正
 
 #### wikiaローカルルール
 - 人名は英語
-
-==References==
-{{reflist|2}}
 
 ### 参考にするソース
 あくまでファンコミュニティのwikiであるということを念頭に置いて、wikipeとは違い創作物により入れ込んでいい利点を意識しながら翻訳する。  というかwikipe、ENGwikiaから文章を一部取ってきてるんじゃ...まあライセンス的には全く問題ないはず

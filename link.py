@@ -12,22 +12,23 @@ with open('jpnCombi.md', 'r') as f:
 with open('source.md', 'r') as f:
     strLink = f.read()
 
+#コメント消去
+listNC = re.split('<\!--.+-->', strLink)
+hoge = ''.join(listNC)
+
 # 人力リンクで作業してある<ref link />をのける
-listTidy = re.split('<ref.+?\/>', strLink)
+listTidy = re.split('<ref.+?\/>', hoge)
 tidyLink = ''.join(listTidy)
 
 listLink = re.findall('<ref.*?>.+?<\/ref>', tidyLink)
 listJpn = re.split('\[\^\d+\]', strJpn)
 
-listSourceWithC = [
+listSource = [
     str(lineJpn) + str(lineLink)
     for (lineJpn, lineLink)
     in zip_longest(listJpn, listLink)
     ]
-strSourceWithC = ''.join(listSourceWithC)
-
-#コメント消去
-listSource = re.split('<\!--.+-->', strSourceWithC)
+strSource = ''.join(listSource)
 
 with open('jpnSource.md', 'w') as f:
-        f.write(''.join(listSource))
+        f.write(strSource)

@@ -10,7 +10,8 @@
 - 翻訳するやつら
     - e(num)-word.md : 英語プレーンテキスト  
     - j(num)-word.md : e(num)の翻訳  
-    - a(num)-word.md : ソースファイル、結局使ってない
+    - a(num)-word.md : ソースファイル
+    - c(num)-word.md : j(num)の改変
     - source.md : ページ丸々のソース、あとで使う
 - スクリプト、この順にやればjpnSource.mdができる。そのうち一つのコマンドでできるようにファイルをまとめるつもり。
     - combi.py : j(num)-word.mdをがっちゃんこする

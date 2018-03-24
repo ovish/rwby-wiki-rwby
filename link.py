@@ -13,14 +13,12 @@ with open('source.md', 'r') as f:
     strLink = f.read()
 
 #コメント消去
-listNC = re.split('<\!--.+-->', strLink)
-hoge = ''.join(listNC)
-
+listJpnC = re.split('<\!--.+-->', strLink)
 # 人力リンクで作業してある<ref link />をのける
-listTidy = re.split('<ref.+?\/>', hoge)
-tidyLink = ''.join(listTidy)
+listTidy = re.split('<ref.+?\/>', ''.join(listJpnC))
 
-listLink = re.findall('<ref.*?>.+?<\/ref>', tidyLink)
+
+listLink = re.findall('<ref.*?>.+?<\/ref>', ''.join(listTidy))
 listJpn = re.split('\[\^\d+\]', strJpn)
 
 listSource = [
@@ -28,11 +26,9 @@ listSource = [
     for (lineJpn, lineLink)
     in zip_longest(listJpn, listLink)
     ]
-strSourceWithC = ''.join(listSource)
 
 #コメント消去
-listWithC = re.split('<\!--.+-->', strSourceWithC)
-strSource = ''.join(listWithC)
+listSourceC = re.split('<\!--.+-->', ''.join(listSource))
 
 with open('jpnSource.md', 'w') as f:
-        f.write(strSource)
+        f.write(''.join(listSourceC))

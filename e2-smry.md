@@ -71,7 +71,7 @@ Team CFVY
 - Velvet Scarlatina
 - Yatsuhashi Daichi
 Team SSSN
-- Team JNPR
+- Sun Wukong
 - Scarlet David
 - Sage Ayana
 - Neptune Vasilias

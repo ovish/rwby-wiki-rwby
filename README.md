@@ -115,12 +115,13 @@ upd update :よりよく修正
 - plot -> 話、x話の筋 =冗長ゆえ
 - the way -> 物語の
 - character -> ?登場人物 oR キャラクター  ==未定
-- evil -> ?災難　oR !害悪 oR 悪
+- evil -> 災難　oR ?害悪 oR 悪
 - at PLACE -> おいて oR おける oR にて　oR での　=?場所ごとに分けるか
 - の　oR　である
 - innate energy ->　?気 oR 生来のエネルギー
 - premiere -> 封切り
-- unique  
+- unique -> それぞれ違った
+- trailer -> ?予告編　oR トレイラー
 - release, publish, premire公開系どう訳す  
 - original  
 - original run?  

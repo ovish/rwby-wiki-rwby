@@ -119,6 +119,7 @@ upd update :よりよく修正
 - at PLACE -> おいて oR おける oR にて　oR での　=?場所ごとに分けるか
 - の　oR　である
 - innate energy ->　?気 oR 生来のエネルギー
+- premiere -> 封切り
 - unique  
 - release, publish, premire公開系どう訳す  
 - original  

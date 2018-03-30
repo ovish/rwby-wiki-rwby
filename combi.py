@@ -6,20 +6,20 @@ import sys
 import os
 import codecs
 
-
-with open('j1-prrg.md', 'r') as f:
+#j[num]は直訳、c[num]は翻訳
+with open('c1-prrg.md', 'r') as f:
     listj1 = f.read()
-with open('j2-smry.md', 'r') as f:
+with open('c2-smry.md', 'r') as f:
     listj2 = f.read()
-with open('j3-tril.md', 'r') as f:
+with open('c3-tril.md', 'r') as f:
     listj3 = f.read()
-with open('j4-epsd.md', 'r') as f:
+with open('c4-epsd.md', 'r') as f:
     listj4 = f.read()
-with open('j5-medi.md', 'r') as f:
+with open('c5-medi.md', 'r') as f:
     listj5 = f.read()
-with open('j6-dvlp.md', 'r') as f:
+with open('c6-dvlp.md', 'r') as f:
     listj6 = f.read()
-with open('j7-trva.md', 'r') as f:
+with open('c7-trva.md', 'r') as f:
     listj7 = f.read()
 
 listCombi = str(

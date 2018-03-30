@@ -96,6 +96,7 @@ upd update :よりよく修正
 - に、へ、を混ぜて続かせない
 - 過去形じゃないとダメなんだっけか？よくわからないから一旦放置。もしかしたらずっと。
 - 詳細は次の記事なんとか、を揃えるあとでやる
+- 人名を無機物の指示語で指し示しちゃってるけど確認がほっといていいかな
 こいつを最後に追記
 '''
 ==Links==
@@ -112,6 +113,7 @@ upd update :よりよく修正
 - A, B, C and D -> A、B、CとD、 oR AとBとCとD　=?三つまでは'と'でつなぐ -> 最後の後に半角スペース入れればよくない？
 - Academy -> アカデミー、x学園 =こっちの方がいい
 - series -> シリーズ oR x番組
+- show -> ?番組 oR ショー
 - anime -> アニメ =日本文化の影響を色濃く受けたアニメーションの一分類のこと
 - animation -> アニメーション oR 動画　=アニメとは明確に区別する
 - produce -> 制作、映像系なので
@@ -128,10 +130,11 @@ upd update :よりよく修正
 - unique -> それぞれ違った
 - trailer -> ?予告編　oR トレイラー
 - episode -> エピソード
+- first episode -> 初話、1話、第一話、初回、初回1話　=コミュニティに投げる
 - air -> 放送
 - Chibi styled character -> ? SDキャラ oR ちびキャラ
 - simulcast -> 同時に放送　=アニメ1話は放送、映画は放映、にしてわける
-- announce -> 報告　OR　公表 oR ?アナウンス oR 告知(すでに分かっている事の詳細)　oR 発表(新しいの)
+- announce -> 報告　OR　公表 oR ?アナウンス oR 告知(すでに分かっている事の詳細)　oR 発表(新しいの) =段落の一つ目は発表でそれ以降は告知にする
 - confirmed -> 確認 oR 認める ==使い分ける
 - take place -> 始まる
 - revealed -> 明らかにす
@@ -142,9 +145,15 @@ upd update :よりよく修正
 - objects -> ?建築
 - sneak peek -> =訳を思いつかぬ
 - cameo -> ?カメオ　oR 特別
+- some -> いくつか　oR 幾ら
+- play -> 演じる、演じた
+- cast as -> 担当　＝も一度点検す
+- role -> 役を演じる
+- director -> 監督　=訳せていない、要確認
+- nnn -> 声を当てた
 - release, publish, premire公開系どう訳す  
 - original  
-- original run?  
+- original run　= !本放送　oR 初回放送
 
 #### wikiaローカルルール
 - 人名は英語

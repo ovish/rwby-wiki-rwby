@@ -2,7 +2,7 @@
 ## Plot
 The plot is centered around the four members of Team RWBY – Ruby Rose, Weiss Schnee, Blake Belladonna and Yang Xiao Long. The series follows their meeting and training at Beacon Academy, a prestigious school for training Huntsmen and Huntresses, warriors who defend the world from evil.
 
-Along the way, they make many friends and allies, including fellow students Team JNPR, Team JNPR and Penny Polendina, and foil the plots of villains, such as Roman Torchwick, Cinder Fall and the terrorist group the White Fang.
+Along the way, they make many friends and allies, including fellow students Team JNPR, Sun Wukong and Penny Polendina, and foil the plots of villains, such as Roman Torchwick, Cinder Fall and the terrorist group the White Fang.
 
 However, as the series continues, Team RWBY must confront their own demons: Ruby is faced with moral dilemmas that challenge her heroic intent, Weiss must reconcile her legacy as heiress of the Schnee Dust Company with her own personal convictions, Blake remains haunted by her past as a member of the White Fang, and Yang searches tirelessly for her mother, who mysteriously disappeared when she was a child.
 
@@ -71,7 +71,7 @@ Team CFVY
 - Velvet Scarlatina
 - Yatsuhashi Daichi
 Team SSSN
-- Team JNPR
+- Sun Wukong
 - Scarlet David
 - Sage Ayana
 - Neptune Vasilias
